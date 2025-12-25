@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "From Now!",
+  "base_artist": "Ayase",
+  "createdAt": "2025-12-25T11:12:57.076945Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "5 Years From Now",
+      "artist": "Mike Jones feat. Lil' Bran",
+      "has_synced": true,
+      "path": "select/01_5_Years_From_Now_Mike_Jones_feat._Lil'_Bran.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "5 Years From Now (Feat. Lil Bran)",
+      "artist": "Mike Jones",
+      "has_synced": true,
+      "path": "select/02_5_Years_From_Now_(Feat._Lil_Bran)_Mike_Jones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/03_From_Now_On_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "100 Years From Now",
+      "artist": "Huey Lewis and The News",
+      "has_synced": false,
+      "path": "select/04_100_Years_From_Now_Huey_Lewis_and_The_News.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "From Now On (We're One)",
+      "artist": "Wendy & Lisa",
+      "has_synced": true,
+      "path": "select/05_From_Now_On_(We're_One)_Wendy_&_Lisa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/06_From_Now_On_Pavement.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "BASIA",
+      "has_synced": true,
+      "path": "select/07_From_Now_On_BASIA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "From Now On (Band Version)",
+      "artist": "BASIA",
+      "has_synced": false,
+      "path": "select/08_From_Now_On_(Band_Version)_BASIA.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Escape From Now (feat. Tony Iommi)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/09_No_Escape_From_Now_(feat._Tony_Iommi)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Escape From Now",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/10_No_Escape_From_Now_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "The Beautiful South",
+      "has_synced": true,
+      "path": "select/11_From_Now_On_The_Beautiful_South.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Peter Bjorn and John",
+      "has_synced": false,
+      "path": "select/12_From_Now_On_Peter_Bjorn_and_John.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Supertramp",
+      "has_synced": true,
+      "path": "select/13_From_Now_On_Supertramp.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Supertramp",
+      "has_synced": true,
+      "path": "select/14_From_Now_On_Supertramp.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Michael Bolton feat. Suzi Benson",
+      "has_synced": true,
+      "path": "select/15_From_Now_On_Michael_Bolton_feat._Suzi_Benson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "From Now!",
+      "artist": "Ayase",
+      "has_synced": false,
+      "path": "select/pl_01_From_Now!_Ayase.txt"
+    }
+  ]
+}
